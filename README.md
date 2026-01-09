@@ -15,7 +15,9 @@ Pin 4-6 top projects showing data analysis skills like cleaning, visualization, 
 
 [DocuLlama](https://github.com/petrolmonkey/DocuLlama) ➡️
 
-[CoffeeScrub](https://github.com/petrolmonkey/CoffeeScrub) ➡️
+- **[CoffeeScrub](https://github.com/petrolmonkey/CoffeeScrub)** ➡️
+  This repo showcases key data cleaning techniques—like handling missing values, standardizing inconsistent formats, and
+  removing duplicates—applied to fictional coffee shop sales data for reliable stakeholder analysis.
 
 ****************************************************************************************************************************
 - **[Project 1: Sales Forecasting Dashboard](https://github.com/yourusername/sales-forecast)**  
