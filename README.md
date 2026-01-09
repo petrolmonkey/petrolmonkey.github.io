@@ -7,8 +7,8 @@ These projects showcase how my manufacturing mindset—from designing casting, l
 Looking forward to connecting!
 -Charlie
 
-[Logistics Database](./logistics-with-mySQL) ➡️
-[DocuLlama](./DocuLlama) ➡️
+[Logistics Database](../logistics-with-mySQL) ➡️
+[DocuLlama](../DocuLlama) ➡️
 
 
 ****************************************************************************************************************************
