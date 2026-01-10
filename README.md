@@ -3,7 +3,7 @@
 
 Hi, I'm Charlie - a curious builder transitioning from Mechanical Engineering in Aerospace to Data Science. After completing a Data Science certificate at UC Irvine, I gained hands-on skills in Python, SQL, data processing, and predictive modeling.
 
-These projects showcase how my manufacturing mindset—from designing casting, layup and assembly tools-drives data-driven insights. Explore below to see real-world applications.
+These projects showcase how my manufacturing mindset—from designing casting, layup and assembly tools—drives data-driven insights. Explore below to see real-world applications.
 
 Looking forward to connecting!
 -Charlie
@@ -11,11 +11,14 @@ Looking forward to connecting!
 ## Featured Projects
 Pin 4-6 top projects showing data analysis skills like cleaning, visualization, and modeling. Craft a profile README with bio, skills (e.g., Python, SQL, Tableau), and project highlights to impress recruiters scanning for real-world problem-solving.
 
-[Logistics Database](https://github.com/petrolmonkey/logistics-with-mySQL) ➡️
+- **[Logistics Database](https://github.com/petrolmonkey/logistics-with-mySQL)**
+  Production-ready 3NF MySQL database showcasing relational modeling, foreign key design, business logic, and supply chain
+  analytics.
 
-[DocuLlama](https://github.com/petrolmonkey/DocuLlama) ➡️
-
-- **[CoffeeScrub](https://github.com/petrolmonkey/CoffeeScrub)** ➡️
+- **[DocuLlama](https://github.com/petrolmonkey/DocuLlama)** ➡️  
+  Streamlit chatbot with LlamaIndex document indexing and embedded vector retrieval for PDF Q&A.
+  
+- **[CoffeeScrub](https://github.com/petrolmonkey/CoffeeScrub)** ➡️  
   Key data cleaning techniques applied to fictional coffee shop sales data for accurate analysis.
 
 
