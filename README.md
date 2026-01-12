@@ -19,13 +19,13 @@ Pin 4-6 top projects
 - **[CoffeeScrub](https://github.com/petrolmonkey/CoffeeScrub)** ➡️  
   Key data cleaning techniques applied to fictional coffee shop sales data for accurate analysis.
 
+## Tech Stack
+- **Languages & Tools**: Python, MySQL, Git, GitHub
 
+Open to data analyst/scientist roles—let’s chat on LinkedIn!
 ************************************************************************************************************************
 Enhancements for Interest
 	•	Visuals: Add repo screenshots or badges (e.g.,  next to descriptions—use GitHub’s image syntax.
-	•	Quantify impact: Amp up pinned repo blurbs, e.g., “Streamlit dashboard analyzing coffee sales data, uncovering 15% revenue trends via predictive models.”
-	•	Skills bar: Insert a tech stack section:  !Python(https://img.shields.io/badge/Python-Expert-blue) !SQL(https://img.shields.io/badge/SQL-Advanced-orange) !Tableau(https://img.shields.io/badge/Tableau-Proficient-green)  for scannability.
-	•	Call to action: End with “Open to data analyst/scientist roles—let’s chat on LinkedIn!”
   
 Adding to LinkedIn
 Edit contact info: Go to your profile, select “Contact Info,” paste GitHub URL(https://yourusername.github.io), label as “GitHub,” and save. Feature key repos in the “Featured” section or mention in “About” for emphasis.
