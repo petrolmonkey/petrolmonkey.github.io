@@ -7,8 +7,6 @@ Looking forward to connecting!
 -Charlie
 
 ## Featured Projects
-Pin 4-6 top projects 
-**enable Pages in repository settings**
 
 - **[Logistics Database](https://github.com/petrolmonkey/logistics-with-mySQL)**  
   Production-ready 3NF MySQL database showcasing relational modeling, foreign key design, business logic, and supply chain
@@ -25,7 +23,4 @@ Pin 4-6 top projects
 
 Open to data analyst/scientist roles—let’s chat on LinkedIn!
 ************************************************************************************************************************
-
-Adding to LinkedIn
-Edit contact info, featured and about section with github link. Feature key repos in the “Featured” section or mention in “About” for emphasis.
 
