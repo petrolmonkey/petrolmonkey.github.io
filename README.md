@@ -21,6 +21,6 @@ Looking forward to connecting!
 ## Tech Stack
 - **Languages & Tools**: Python, MySQL, Git, GitHub
 
-Open to data analyst/scientist roles—let’s chat on LinkedIn!
+Open to data analyst/engineering roles—let’s chat on LinkedIn!
 ************************************************************************************************************************
 
